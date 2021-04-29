@@ -1,11 +1,23 @@
-### Daily Need Store
-This website is all about Daily Need Services. Here you will find some vehicle. And also integrated Google Maps.
+# Daily Need Store
+A single page restaurant app where people are able to select food in their cart and checkout the cart with their information
 
-## Live site:
-https://pedantic-albattani-7c9caa.netlify.app/
+[Live Website](https://pedantic-albattani-7c9caa.netlify.app/) 
 
-## Client Repository link:
-https://github.com/Porgramming-Hero-web-course/full-stack-client-marufpbt
+### Features
+* Order food from the menu
+* Sign Up to place order
+* Pay online using your credit card
 
-## Server Repository link:
-https://github.com/Porgramming-Hero-web-course/full-stack-server-marufpbt
+### Front-end Thechnology : 
+* React.js
+* Bootstrap4
+* CSS3
+
+### Backend Technology
+* Node.js
+* Express.js
+* MongoDB
+* Firebase Athuentication 
+* Stripe.js
+
+[Back-end Repository](https://github.com/marufpbt/daily-need-store-server)
